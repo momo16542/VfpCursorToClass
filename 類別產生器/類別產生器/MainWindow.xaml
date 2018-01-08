@@ -1,0 +1,27 @@
+﻿<Window x:Class="類別產生器.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:類別產生器"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" >
+            <Button Content="VFP產生代碼" Click="Button_Click" Width="100" Height="50" Margin="3"></Button>
+            <Button Content="OnProp產生代碼" Click="Button_Click_1" Width="100" Height="50" Margin="3"></Button>
+        </StackPanel>
+
+        
+        <RichTextBox Grid.Row="1" Grid.Column="0" Margin="5" x:Name="文字"></RichTextBox>
+        <RichTextBox Grid.Row="1" Grid.Column="1" Margin="5" x:Name="代碼"></RichTextBox>
+    </Grid>
+</Window>

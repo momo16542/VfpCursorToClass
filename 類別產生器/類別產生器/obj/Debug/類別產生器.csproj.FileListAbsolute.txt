@@ -1,0 +1,15 @@
+D:\vs資料夾\類別產生器\類別產生器\bin\Debug\類別產生器.exe.config
+D:\vs資料夾\類別產生器\類別產生器\bin\Debug\類別產生器.exe
+D:\vs資料夾\類別產生器\類別產生器\bin\Debug\類別產生器.pdb
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.csprojResolveAssemblyReference.cache
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\MainWindow.g.cs
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\App.g.cs
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器_MarkupCompile.cache
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器_MarkupCompile.lref
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\MainWindow.baml
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.g.resources
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.Properties.Resources.resources
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.csproj.GenerateResource.Cache
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.csproj.CoreCompileInputs.cache
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.exe
+D:\vs資料夾\類別產生器\類別產生器\obj\Debug\類別產生器.pdb
